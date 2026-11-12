@@ -1,4 +1,4 @@
-# 🌎 HablaMundo
+#LEXIKON
 
 ### Plataforma digital de expresiones, palabras y variantes lingüísticas regionales.
 
