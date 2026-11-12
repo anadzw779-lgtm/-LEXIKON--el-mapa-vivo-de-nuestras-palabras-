@@ -4,7 +4,8 @@
 
 ## 📌 Descripción
 
-*HablaMundo* es una plataforma digital diseñada para recopilar, consultar y compartir palabras, expresiones y frases utilizadas en diferentes regiones del mundo.
+LEXIkÓN
+es una plataforma digital diseñada para recopilar, consultar y compartir palabras, expresiones y frases utilizadas en diferentes regiones del mundo.
 
 Su propósito es documentar la diversidad lingüística y cultural, permitiendo que las personas descubran cómo cambia el lenguaje dependiendo de la ubicación geográfica, las costumbres y el contexto social.
 
